@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hillo
 jfkldsa
 
@@ -11,6 +10,5 @@ adding more
 
 added on 12/16
 
-=======
 hi
->>>>>>> 29db0501d64ab65468a8048227917b14d10da61b
+
