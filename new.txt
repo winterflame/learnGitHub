@@ -1,6 +1,3 @@
-this is a file which only stored in master.
+OK hello, this is a file which only stored in master.
 
-I don't know.
-I don't know either.
-
-2016/04/27 why is that????
+7897897974564564123123132
