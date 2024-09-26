@@ -1,0 +1,15 @@
+OK hello, this is a file which only stored in master.
+
+<<<< HEAD
+7897897974564564123123132
+
+I don't know.
+I don't know either.
+I don't know either.
+I don't know either.
+I don't know either.
+I don't know either.
+I don't know either.
+I don't know either.
+
+>>>>>>> 1550f80c11730c9c3c27b04f3d8abf7de2ec1339
